@@ -26,6 +26,8 @@ python3 main.py
 ```
 from the root directory to get your new `data.json` file and change its values to fit your needs
 
+You will also need to change values in the `config.ts` file to fit your needs, however the comments should make this process simple
+
 ## Development Server
 
 Start the development server on http://localhost:3000
