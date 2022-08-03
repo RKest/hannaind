@@ -1,0 +1,22 @@
+//Colors
+$main-color: white;
+$secondary-color: grey;
+$accent-color: lightgrey;
+$main-filter: invert(100%);
+$accent-filter: invert(59%) sepia(0%) saturate(0%) hue-rotate(154deg) brightness(85%) contrast(80%);
+
+
+$landing-el-height: 40vh;
+$landing-el-width: 25vw;
+
+$landing-el-height-v: 30vh;
+$landing-el-width-v: 60vw;
+
+//Decorations
+$accent-line-width: 2px;
+
+@mixin align-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

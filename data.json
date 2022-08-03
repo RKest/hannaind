@@ -1,0 +1,111 @@
+[
+    {
+        "id": "Caterpillar_D11T_CD",
+        "images": [
+            "3.jpeg",
+            "2.jpeg",
+            "1.jpeg"
+        ],
+        "category": "buildozers",
+        "name": "Produkt-0",
+        "price": 137945,
+        "material": "bipeds",
+        "disciption": "Lorem ipsum dolor"
+    },
+    {
+        "id": "koala",
+        "images": [
+            "koala2.jpeg",
+            "koala1.jpeg"
+        ],
+        "category": "bears",
+        "name": "Produkt-1",
+        "price": 164949,
+        "material": "bipeds",
+        "disciption": "Lorem ipsum dolor"
+    },
+    {
+        "id": "crow",
+        "images": [
+            "crow2.jpeg",
+            "crow1.jpeg",
+            "crows3.jpeg"
+        ],
+        "category": "birds",
+        "name": "Produkt-2",
+        "price": 152879,
+        "material": "bipeds",
+        "disciption": "Lorem ipsum dolor"
+    },
+    {
+        "id": "ACCO_Super_Bulldozer",
+        "images": [
+            "3.jpeg",
+            "2.jpeg",
+            "1.jpeg"
+        ],
+        "category": "buildozers",
+        "name": "Produkt-3",
+        "price": 90909,
+        "material": "bipeds",
+        "disciption": "Lorem ipsum dolor"
+    },
+    {
+        "id": "ostrich",
+        "images": [
+            "ostrich.jpeg"
+        ],
+        "category": "birds",
+        "name": "Produkt-4",
+        "price": 110133,
+        "material": "bipeds",
+        "disciption": "Lorem ipsum dolor"
+    },
+    {
+        "id": "grizzly",
+        "images": [
+            "grizzly1.jpeg"
+        ],
+        "category": "bears",
+        "name": "Produkt-5",
+        "price": 63173,
+        "material": "quadrupeds",
+        "disciption": "Lorem ipsum dolor"
+    },
+    {
+        "id": "Komatsu_D575A-3_SD_(SUPER DOZER)",
+        "images": [
+            "3.jpeg",
+            "2.jpeg",
+            "1.jpeg"
+        ],
+        "category": "buildozers",
+        "name": "Produkt-6",
+        "price": 146040,
+        "material": "bipeds",
+        "disciption": "Lorem ipsum dolor"
+    },
+    {
+        "id": "panda",
+        "images": [
+            "panda2.jpeg",
+            "panda1.jpg"
+        ],
+        "category": "bears",
+        "name": "Produkt-7",
+        "price": 162416,
+        "material": "bipeds",
+        "disciption": "Lorem ipsum dolor"
+    },
+    {
+        "id": "emu",
+        "images": [
+            "emu.jpeg"
+        ],
+        "category": "birds",
+        "name": "Produkt-8",
+        "price": 110828,
+        "material": "bipeds",
+        "disciption": "Lorem ipsum dolor"
+    }
+]
